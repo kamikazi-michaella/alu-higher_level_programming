@@ -1,4 +1,2 @@
-SQL_more_queries
-================
-
-A project for becoming more used to mysql
+# alu-higher_level_programming
+ALU_HIGHER_LEVEL_PROGRAMMING
